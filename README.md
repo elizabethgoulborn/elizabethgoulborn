@@ -5,6 +5,6 @@
 ## I am interested mechanical engineering, and how code and electronics can intersect with this field.
 ## This GitHub is a space for me to practice relevant coding projects (mostly on Python but I also have practice using MATLAB).
 ##
-## Any feedback or ideas welcome!
+## Any feedback appreciated!
 
 ## LinkedIn: www.linkedin.com/in/elizabeth-goulborn
